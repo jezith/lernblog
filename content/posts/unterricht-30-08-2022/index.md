@@ -3,7 +3,7 @@ title = "Unterricht 30.08.2022"
 date = "2022-08-30"
 draft = false
 pinned = false
-image = "f8d53463-631a-4ef9-afe5-e2798ec5c219_4_5005_c.jpeg"
+image = "f8fa5630-b7c1-4129-9664-1b0dbf3cbbc2-2.jpeg"
 +++
 Wir haben das Canvas zu unserem Projekt fertiggestellt. Die meisten Kategorien konnten wir ohne Probleme ausfüllen, bei den Kennzahlen hatten wir einige Probleme. Wir wussten nicht genau, wie wir auf die richtigen Kennzahlen kommen können.
 
