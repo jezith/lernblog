@@ -1,6 +1,6 @@
 +++
 headless = true
 name = "Jezith"
-image = ""
+image = "/media/lol.jpeg"
 email = ""
 +++
