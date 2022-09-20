@@ -11,7 +11,7 @@ url = "Bauer, Ledig, sucht."
 
 [[link]]
 title = "Instagram"
-url = "https://www.instagram.com/"
+url = "p.jezith98"
 
 [[link]]
 title = "Snapchat"
