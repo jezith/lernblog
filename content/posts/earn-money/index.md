@@ -6,6 +6,8 @@ pinned = false
 image = "jp-valery-blolco2k4m0-unsplash-2.jpg"
 footnotes = "Autor Jezith Co. Autoren Leandra und Niclas"
 +++
+![](jp-valery-blolco2k4m0-unsplash-2.jpg)
+
 **Ihr dachtet euch mal, wie es wäre reich zu sein.**
 
 In diesem Blogeintrag wird ihnen erklärt auf welche Sachen und Faktoren man achten muss.
